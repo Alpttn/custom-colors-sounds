@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Custom-Colors-sounds/1.0.0": {
+        "runtime": {
+          "Custom-Colors-sounds.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Custom-Colors-sounds/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

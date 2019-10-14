@@ -1,0 +1,11 @@
+C:\Users\allis\workspace\CSharp\book1\exercises\Custom-Colors-sounds\obj\Debug\netcoreapp3.0\Custom-Colors-sounds.csprojAssemblyReference.cache
+C:\Users\allis\workspace\CSharp\book1\exercises\Custom-Colors-sounds\obj\Debug\netcoreapp3.0\Custom-Colors-sounds.AssemblyInfoInputs.cache
+C:\Users\allis\workspace\CSharp\book1\exercises\Custom-Colors-sounds\obj\Debug\netcoreapp3.0\Custom-Colors-sounds.AssemblyInfo.cs
+C:\Users\allis\workspace\CSharp\book1\exercises\Custom-Colors-sounds\bin\Debug\netcoreapp3.0\Custom-Colors-sounds.exe
+C:\Users\allis\workspace\CSharp\book1\exercises\Custom-Colors-sounds\bin\Debug\netcoreapp3.0\Custom-Colors-sounds.deps.json
+C:\Users\allis\workspace\CSharp\book1\exercises\Custom-Colors-sounds\bin\Debug\netcoreapp3.0\Custom-Colors-sounds.runtimeconfig.json
+C:\Users\allis\workspace\CSharp\book1\exercises\Custom-Colors-sounds\bin\Debug\netcoreapp3.0\Custom-Colors-sounds.runtimeconfig.dev.json
+C:\Users\allis\workspace\CSharp\book1\exercises\Custom-Colors-sounds\bin\Debug\netcoreapp3.0\Custom-Colors-sounds.dll
+C:\Users\allis\workspace\CSharp\book1\exercises\Custom-Colors-sounds\bin\Debug\netcoreapp3.0\Custom-Colors-sounds.pdb
+C:\Users\allis\workspace\CSharp\book1\exercises\Custom-Colors-sounds\obj\Debug\netcoreapp3.0\Custom-Colors-sounds.dll
+C:\Users\allis\workspace\CSharp\book1\exercises\Custom-Colors-sounds\obj\Debug\netcoreapp3.0\Custom-Colors-sounds.pdb
